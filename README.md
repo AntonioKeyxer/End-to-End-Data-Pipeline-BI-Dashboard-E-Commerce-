@@ -56,5 +56,8 @@ Este proyecto presenta una solución integral de análisis de datos (End-to-End)
 * `/Data`: Diseño de la BD PostgreSQL.
 * `/Imagenes`: Capturas de pantalla de los reportes.
 
+## 📂 Recursos del Proyecto
+* **Archivo Power BI (.pbix):** https://drive.google.com/file/d/1Ana74VPjWSAa7Llg0G_Agtf7GPIADOB1/view?usp=sharing
+
 ---
 **Desarrollado por:** Antonio Guanilo
