@@ -54,7 +54,6 @@ Este proyecto presenta una solución integral de análisis de datos (End-to-End)
 
 * `/Notebooks`: Código en Python (.ipynb) utilizado para el proceso ETL.
 * `/Data`: Diseño de la BD PostgreSQL.
-* `/Dashboard`: Archivo de Power BI (.pbix).
 * `/Imagenes`: Capturas de pantalla de los reportes.
 
 ---
