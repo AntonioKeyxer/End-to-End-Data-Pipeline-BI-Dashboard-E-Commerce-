@@ -25,14 +25,14 @@ Este proyecto presenta una solución integral de análisis de datos (End-to-End)
 * **Ticket Promedio:** Se mantiene un ticket promedio de **136.66**, permitiendo predecir ingresos en base al volumen de órdenes.
 * **Estado con más Pagos:** Se identifica a estado de **SP (São Paulo)**, como el estado donde provienen la mayoria de Ingresos de Olist.
 
-![Logística](Imagenes/logistica.png)
+![Finanzas](Imagenes/medios_pago.png)
 
 ### 3. Eficiencia Logística
 * **Desempeño Operativo:** La tasa promedio de retraso es del **7.9%**, con un tiempo de entrega (Delivery) promedio de **12.5 días**.
 * **Correlación Volumen-Retraso:** El análisis revela que meses con alta demanda (como marzo) estresan la cadena de suministro, elevando el % de retraso por encima del **15%**.
 * **Distribución Geográfica:** El estado de **SP (São Paulo)** domina el volumen de operaciones con más de 41k órdenes, manteniendo una de las tasas de retraso más bajas (5.7%).
 
-![Finanzas](Imagenes/medios_pago.png)
+![Logística](Imagenes/logistica.png)
 
 ### 4. Satisfacción del Cliente (CSAT)
 * **Nivel de Servicio:** El promedio general de calificación es de **4.09 estrellas**, con un **57.78%** de reseñas con puntaje máximo (5 estrellas).
